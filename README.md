@@ -1,7 +1,4 @@
-# Day1
-### Management structures and arrays
-
-*Takeaways: Today, you will learn the basics of solving both trivial and more challenging business tasks using basic Java language constructs.*
+# Management structures and arrays
 
 ### Exercise 00 – Sum of Digits
 
